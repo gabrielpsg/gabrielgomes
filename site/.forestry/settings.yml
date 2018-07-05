@@ -7,6 +7,9 @@ sections:
 - path: site/content
   label: Pages
   create: all
+- path: site/content/posts
+  label: Posts
+  create: all
 - path: site/content/values
   label: Values
   create: all
